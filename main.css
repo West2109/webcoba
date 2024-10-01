@@ -1,0 +1,25 @@
+body {
+    margin: 1rem;
+}
+
+.profil {
+    height: 1.5rem;
+}
+
+.profil p {
+    margin: 0.2rem 0rem 0rem 0rem;
+}
+
+.container1 {
+    display: flex;
+    margin: 1rem 0rem 0rem 0rem;
+}
+
+.container1 img {
+    width: 18%;
+    text-align: left;
+}
+
+.container2 {
+    text-align: left;
+}
